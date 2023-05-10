@@ -49,3 +49,5 @@ console.log("------------------");
 //     console.log("John ist jünger.");
 // }
 
+/************  Ternäre (ternary) Schreibweise ************/
+// console.log( (isJohnOlder) ? "John is older" : "Mark is older");
